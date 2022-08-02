@@ -1,0 +1,5 @@
+﻿  HangMan_Game.cpp
+F:\Projects\SP project 3.2020\HangMan_Game\HangMan_Game\HangMan_Game.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\SP project 3.2020\HangMan_Game\HangMan_Game\HangMan_Game.cpp(27,15): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\SP project 3.2020\HangMan_Game\HangMan_Game\HangMan_Game.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+  HangMan_Game.vcxproj -> F:\Projects\SP project 3.2020\HangMan_Game\Debug\HangMan_Game.exe
